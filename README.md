@@ -1,2 +1,2 @@
 # purple-aura-windows-dots
-![[Screenshot.png]]
+![A screenshot of an absolutely beautiful Windows Desktop](Screenshot.png)
